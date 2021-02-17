@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# DEPLOYED so you can CHECKOUT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://project-covid19-ecfbe.web.app
+
+## Getting Started with Create React App
+
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
