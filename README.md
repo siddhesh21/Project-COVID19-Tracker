@@ -1,4 +1,6 @@
-# DEPLOYED so you can CHECKOUT
+# 2021 Real-Time stats, working on an update for Vaccination Doses and the type used in major countries. 
+
+## DEPLOYED so you can CHECKOUT
 
 https://project-covid19-ecfbe.web.app
 
